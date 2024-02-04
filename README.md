@@ -5,7 +5,7 @@ LocalKV is a simple, type-safe key-value data store to pass data or context betw
 ## Installation
 
 ```bash
-$ npm install local-kv
+$ npm install localkv
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ npm install local-kv
 ```javascript
 import { randomUUID } from 'node:crypto';
 import express from 'express';
-import { KV } from 'local-kv';
+import { KV } from 'localkv';
 
 const app = express();
 
