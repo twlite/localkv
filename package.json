@@ -43,7 +43,7 @@
     "url": "https://github.com/twlite/localkv/issues"
   },
   "homepage": "https://github.com/twlite/localkv#readme",
-  "packageManager": "yarn@4.1.0",
+  "packageManager": "yarn@4.5.1",
   "devDependencies": {
     "@types/bun": "^1.0.4",
     "@types/express": "^4.17.21",
